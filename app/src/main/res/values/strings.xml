@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="tv_climate">Climate : </string>
+    <string name="tv_orbital_period">Orbital Period : </string>
+    <string name="tv_gravity">Gravity : </string>
+
+</resources>
